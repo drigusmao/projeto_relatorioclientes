@@ -113,7 +113,7 @@ GROUP BY c.id_cliente;
 SELECT * FROM vw_saldo_total WHERE saldo_total > 2000;
 
 -- Clientes que começam com a letra M
-SELECT * FROM clientes WHERE nome LIKE 'M%';
+SELECT * FROM clientes WHERE nome LIKE 'A%';
 
 -- Contas com saldo entre 500 e 2000
 SELECT * FROM contas WHERE saldo BETWEEN 500 AND 2000;
