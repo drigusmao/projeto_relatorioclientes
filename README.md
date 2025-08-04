@@ -1,6 +1,6 @@
 ﻿# Relatório Consolidado de Clientes Multicontas
 
-### Este projeto demonstra a criação e manipulação de um banco de dados SQLite para consolidar informações de clientes com múltiplas contas bancárias, exibindo saldos totais e movimentações de forma integrada ensinado no curso Conhecendo SQL da plataforma Alura.
+### Este projeto demonstra a criação e manipulação de um banco de dados SQLite para consolidar informações de clientes com múltiplas contas bancárias, exibindo saldos totais e movimentações de forma integrada.
 
 ### Tecnologias Utilizadas:
 
@@ -18,3 +18,4 @@
 - Funções de agregação (COUNT, SUM, AVG)
 - Classificação (ORDER BY, CASE)
 - Criação de Views para consultas rápidas
+
